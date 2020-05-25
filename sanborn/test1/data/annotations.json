@@ -9407,32 +9407,32 @@
         {
             "id": 0,
             "name": "_background_",
-            "supercategory": background
+            "supercategory": "_background_"
         },
         {
             "id": 1,
             "name": "bridge",
-            "supercategory": bridge
+            "supercategory": "bridge"
         },
         {
             "id": 2,
             "name": "building",
-            "supercategory": building
+            "supercategory": "building"
         },
         {
             "id": 3,
             "name": "open_walls",
-            "supercategory": building
+            "supercategory": "building"
         },
         {
             "id": 4,
             "name": "street",
-            "supercategory": street	
+            "supercategory": "street"
         },
         {
             "id": 5,
             "name": "water",
-            "supercategory": water
+            "supercategory": "water"
         }
     ],
     "images": [
