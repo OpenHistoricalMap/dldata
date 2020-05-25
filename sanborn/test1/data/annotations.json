@@ -9508,21 +9508,5 @@
             "url": null,
             "width": 1400
         }
-    ],
-    "info": {
-        "contributor": null,
-        "date_created": "2020-05-24 20:35:42.216798",
-        "description": null,
-        "url": null,
-        "version": null,
-        "year": 2020
-    },
-    "licenses": [
-        {
-            "id": 0,
-            "name": null,
-            "url": null
-        }
-    ],
-    "type": "instances"
+    ]
 }
