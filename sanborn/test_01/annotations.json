@@ -1,0 +1,161 @@
+{
+    "info": {
+        "description": null,
+        "url": null,
+        "version": null,
+        "year": 2020,
+        "contributor": null,
+        "date_created": "2020-05-25 17:09:40.208033"
+    },
+    "licenses": [
+        {
+            "url": null,
+            "id": 0,
+            "name": null
+        }
+    ],
+    "images": [
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-042-09.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 0
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-075-08.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 1
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-049-08.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 2
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-062-10.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 3
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-011-10.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 4
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-055-10.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 5
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-001-09.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 6
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-018-09.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 7
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-007-00.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 8
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-034-02.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 9
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-069-02.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 10
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "images/tx-sn-sa-96-026-05.jpg",
+            "height": 1250,
+            "width": 1400,
+            "date_captured": null,
+            "id": 11
+        }
+    ],
+    "type": "instances",
+    "annotations": [],
+    "categories": [
+        {
+            "supercategory": "_background_",
+            "id": 0,
+            "name": "_background_"
+        },
+        {
+            "supercategory": "bridge",
+            "id": 1,
+            "name": "bridge"
+        },
+        {
+            "supercategory": "building",
+            "id": 2,
+            "name": "building"
+        },
+        {
+            "supercategory": "open_walls",
+            "id": 3,
+            "name": "open_walls"
+        },
+        {
+            "supercategory": "street",
+            "id": 4,
+            "name": "street"
+        },
+        {
+            "supercategory": "water",
+            "id": 5,
+            "name": "water"
+        }
+    ]
+}
